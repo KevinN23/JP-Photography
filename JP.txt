@@ -1,0 +1,25 @@
+<!DOCTyPE HTML>
+<html>
+<head>
+<title>Joel Periera's Photography</title>
+</head>
+<body>
+<div class="header">
+<div class="container">
+	<h1>Joel Periera's</h1>
+        <h2>Photography</h2>
+</div>
+</div>
+
+<div class="navigation">
+<div class="col-md-10" "pull-right">
+	<a class="btn btn-primary" href="#" role="button">Home</a>
+        <button class="btn-btn-primary" type="button">About Me</a>
+	<button class="btn-btn-primary" type="button">Projects</a>
+	<button class="btn-btn-primary" type="button">Contact</a>
+</div>
+</div>
+
+
+</body>
+</html>
